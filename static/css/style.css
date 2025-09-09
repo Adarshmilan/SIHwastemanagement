@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background: #f7f7f7;
+}
+
+header {
+    background: #2c7a7b;
+    color: white;
+    padding: 20px;
+}
+
+.roles button {
+    margin: 10px;
+    padding: 15px 25px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    background: #319795;
+    color: white;
+    border-radius: 5px;
+}
+
+.roles button:hover {
+    background: #2c7a7b;
+}
